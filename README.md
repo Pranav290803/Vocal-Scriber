@@ -27,9 +27,6 @@ Contributions to the Vocal Scriber project are welcome! Here's how you can contr
 ## Support
 If you encounter any issues or have questions about the Vocal Scriber project, feel free to open an issue on GitHub or contact the project maintainers directly.
 
-## License
-The Vocal Scriber project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 We would like to thank all contributors and supporters of the Vocal Scriber project for their valuable contributions and feedback.
 
